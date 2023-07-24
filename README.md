@@ -4,5 +4,5 @@ Installation:
 
 Using:
 -
-* docker run -ti <image>
+* docker run -ti >>>image_name<<<
 * interact with terminal
